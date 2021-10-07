@@ -136,6 +136,23 @@ nav{
     .gallery{
         flex-direction: column;
     }
+    .picc{
+        width: 100%;
+    }
+     .picc{
+    width: 90%;
+    margin:10px;
+    }
+    .picc2{
+    width: 90%;
+    margin:10px;
+    }
+    .picc3{
+    width: 90%;
+
+    margin:10px;
+    }
+
 
 }
 .nav-active{
@@ -327,35 +344,12 @@ a:link{text-decoration: none;}
     justify-content: center;
     flex-wrap: wrap;
     background-color: rgb(248, 227, 187);
-    height: 100%;
+    height:100%;
     max-width: 100%;
-    flex-wrap: wrap;
+    padding: 10px;
+}
 
 
-}
-.picc{
-    width: 30%;
-    margin:10px;
-}
-.picc2{
-    width: 30%;
-    margin:10px;
-}
-.picc3{
-    width: 30%;
-
-    margin:10px;
-}
-.syll{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-family: poppins;
-    padding: 5px;
-    background-color: #db9800;
-    color: rgb(51, 36, 6);
-    flex-direction: column;
-}
 .ex{
     font-size: 13px;
 }
